@@ -13,7 +13,7 @@ Implement the commands to update and delete particular notes.
 ## Objectives
 When the command is `create`:
 
-* The program should interpret the data as a type string and make a new note that contains this text.
+* The program should interpret the data and make a new note.
 
 When the command is `clear`:
 
